@@ -2,7 +2,6 @@
 layout:post
 title: Java Init
 categories: Java
-tags: Java, java, language
 published: true
 ---
 
