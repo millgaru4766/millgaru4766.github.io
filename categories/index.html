@@ -4,7 +4,7 @@ title: HyoRang's Categories
 
 <ul class="entry-meta inline-list">
   {% for item in (0..site.categories.size) %}{% unless forloop.last %}
-  	<span>{{site.categories.size}}</span>
+  	<span>{{site.categories}}</span>
     {% capture this_word %}{{ categories_list[item] | strip_newlines }}{% endcapture %}
   	<li><a href="#{{ this_word }}" class="tag">
     <span class="term">{{ this_word }}</span>
