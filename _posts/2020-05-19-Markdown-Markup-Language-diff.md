@@ -1,5 +1,6 @@
 ---
 Title: MarkUp vs MarkDown
+published: true
 ---
 
 [TOC]
@@ -39,7 +40,7 @@ Title: MarkUp vs MarkDown
 
 @[MarkDown 확장자에 대해 상세 보기](https://superuser.com/questions/249436/file-extension-for-markdown-files)
 
-
+Prose.io를 사용한 수정
 
 
 
