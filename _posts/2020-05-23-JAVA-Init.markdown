@@ -1,8 +1,8 @@
 ---
 layout:post
-title: JAVA Init
-categories:[programming, JAVA]
-tags:[JAVA, java, language]
+title: Java Init
+categories:[Java]
+tags:[Java, java, language]
 ---
 
-JAVA Init
+Java Init
