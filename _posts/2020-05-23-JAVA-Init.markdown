@@ -1,8 +1,7 @@
 ---
-layout:post
-title: Java Init
+title:  Java Init
+date:   2013-11-08 19:55:16
 categories: Java
-published: true
 ---
 
 Java Init
