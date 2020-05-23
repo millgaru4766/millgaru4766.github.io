@@ -1,7 +1,7 @@
 ---
 layout:post
 title: Postgresql Init
-categories:[programming, Postgresql]
+categories:[Postgresql]
 tags:[Postgresql, DB. database]
 ---
 
