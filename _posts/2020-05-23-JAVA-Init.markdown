@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  Java Init
-date:   2013-11-08 19:55:16
-categories: Java
-comments: true
-tags: [Github Blog]
+categories: [Java]
+tags: [Init]
 ---
 
 Java Init
